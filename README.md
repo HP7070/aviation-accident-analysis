@@ -136,15 +136,6 @@ Your app will be live at:
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| Person 1 | Frontend, UI/UX, Visualization |
-| Person 2 | Data Pipeline, ML Models, Deployment |
-
----
-
 ## 🎓 Academic Context
 
 - **Degree:** Third Year — Data Science
