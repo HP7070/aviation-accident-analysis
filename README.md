@@ -1,6 +1,6 @@
 # ✈️ Aviation Safety Intelligence Platform
 
-> Third Year Data Science Project — Trend Analysis of Global Airplane Accidents (2015–2025)
+Data Science Project — Trend Analysis of Global Airplane Accidents (2015–2025)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/aviation-accident-analysis.git
+git clone https://github.com/HP7070/aviation-accident-analysis.git
 cd aviation-accident-analysis
 ```
 
